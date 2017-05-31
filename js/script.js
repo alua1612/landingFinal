@@ -29,7 +29,11 @@ $(document).ready(function() {
 });
 
 $('#myCarousel').carousel({
+<<<<<<< HEAD
   interval: 4000
+=======
+  interval: 3000
+>>>>>>> a2f9fb8ae9f5316e8a69554b23d234b4ba7f8858
 })
 
 $('.carousel .item').each(function(){
